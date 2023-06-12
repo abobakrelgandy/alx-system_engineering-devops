@@ -1,2 +1,2 @@
 #!/bin/bash
-print /tmp/h$ ./0-hello_world
+echo “Hello, World”
