@@ -1,2 +1,2 @@
 #!/bin/bash
-I_am_only_ls_alias
+alias srm="rm -i"
