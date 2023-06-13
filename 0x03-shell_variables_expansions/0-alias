@@ -1,2 +1,2 @@
 #!/bin/bash
-alias srm="rm -i"
+printf "%s\n"
