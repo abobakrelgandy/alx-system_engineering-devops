@@ -1,3 +1,4 @@
 #!/usr/bin/env ruby
-reg_a = /School/
-puts ARGV[0].scan(reg_a).join
+# A regular expression that is simply matching School
+puts ARGV[0].scan(/School/).join
+
